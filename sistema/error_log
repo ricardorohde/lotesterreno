@@ -1,0 +1,16 @@
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 6
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 7
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 8
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  Division by zero in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 9
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 6
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 7
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 8
+[25-Mar-2019 11:16:20 Brazil/East] PHP Warning:  Division by zero in /home/aluguecasas/public_html/site/sistema/_models/model_arquivos_imagens.php on line 9
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 6
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 7
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 8
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  Division by zero in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 9
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 6
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 7
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 8
+[25-Mar-2019 13:07:36 Brazil/East] PHP Warning:  Division by zero in /home/aluguecasas/public_html/sistema/_models/model_arquivos_imagens.php on line 9
